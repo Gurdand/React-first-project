@@ -3,7 +3,7 @@ import './App.css';
 import BusinessList from './components/BusinessList/BusinessList';
 import SearchBar from './components/SearchBar/SearchBar';
 import Yelp from './util/Yelp';
-import Business from './components/Business/Business';
+//import Business from './components/Business/Business';
 
 export class App extends Component {
   constructor(props){
