@@ -1,6 +1,6 @@
 ## Ravenous
 
-Проект написан в рамках курса по React с [codecademy.com](codecademy.com).
+Проект написан в рамках курса по React с [codecademy.com](https://www.codecademy.com).
 
 Выводит информацию о ресторанах по типу и местоположению, используя Yelp API.
 
